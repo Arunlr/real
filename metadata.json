@@ -1,0 +1,11 @@
+{
+  "name": "Remix: Figma Supabase Portal",
+  "description": "Preview portal for Figma and Supabase web applications",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
